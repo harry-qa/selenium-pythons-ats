@@ -30,8 +30,8 @@
 ├── testconfig.py         # 테스트 환경 변수 관리
 └── .gitignore            # Git 관리 제외 파일 설정
 ```
-## 5. 실행 방법 
-
+## 4. 실행 방법
+```bash
 # 의존성 설치
 pip install selenium pytest
 
